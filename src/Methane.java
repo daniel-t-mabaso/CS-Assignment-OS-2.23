@@ -53,6 +53,8 @@ public class Methane {
 		public void bond(String atom) throws InterruptedException {
 			
 			System.out.println("...Bonding...."+atom);
+         
+
 			if ((H==4) && (C==1)) {
 				H=0;
 				C=0;

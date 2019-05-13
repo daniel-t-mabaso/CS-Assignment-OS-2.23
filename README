@@ -1,9 +1,9 @@
 TO COMPILE
 -Windows-
-From assignment folder, run the following command in command prompt: javac -d ./ src/*.javac
+From assignment folder, run the following command in command prompt: javac -d ./ src/*.java
 -Linux-
 From assignment folder, run the following command in the terminal: make
 
 TO RUN
 -Both Windows and Linux-
-From assignment folder, run the following command: java dishWashS.CleaningDishes <size of dishes> <rack size> <washer slackness> <dryer slackness>
+From assignment folder, run the following command: java	molecule.RunSimulation <number of hydrogen> <number of carbon>
